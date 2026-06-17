@@ -1,0 +1,6 @@
+{
+  "name": "AI Website Builder",
+  "description": "An AI-powered website builder that generates fully functional single-page responsive sites instantly from your prompts, featuring preview, code inspection, and file downloads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
